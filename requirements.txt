@@ -1,0 +1,7 @@
+
+
+numpy == 1.19.2
+opencv_python == 4.2.0.34
+streamlit == 0.59.0
+tensorflow == 2.4.1
+
