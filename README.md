@@ -11,7 +11,7 @@
 #### All work here is done on `CoLab` 
 
 ## General Info
->- This example has been implemented by using OpenCV to detect faces in the input images and a a pre-trained Keras CNN model (MobileNetV2)   as mask/no-mask binary classifier applied to the faces Images. The Deep Learning model currently used has been trained using this image data set from kaggle <a href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset" target="_blank">`here`</a> . The trained model has been shared in this repo. The face detector algorithm comes from <a href="https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/how_to_train_face_detector.txt" target="_blank">`here`</a>: the Caffe model and its descriptor are into the face_detector directory.
+>- This example has been implemented by using OpenCV to detect faces in the input images and a a pre-trained Keras CNN model (MobileNetV2)   as mask/no-mask binary classifier applied to the faces Images. The Deep Learning model currently used has been trained using this image data set from kaggle <a href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset" target="_blank">`here`</a> . The trained model has been shared in this repo. The face detector algorithm comes from <a href="https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/how_to_train_face_detector.txt" target="_blank">`here`</a>: the Caffee model files are in CAFFEE folder directory.
 
 ## Web APP Explanation
 ### Once an image has been uploaded, the classification happens automatically. 
