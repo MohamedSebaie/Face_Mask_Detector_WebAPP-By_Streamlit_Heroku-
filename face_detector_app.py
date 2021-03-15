@@ -4,9 +4,6 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
 from PIL import Image
 import numpy as np
-pip install opencv-python
-apt update && apt install -y libsm6 libxext6
-apt-get install -y libxrender-dev
 import cv2
 import os
 
