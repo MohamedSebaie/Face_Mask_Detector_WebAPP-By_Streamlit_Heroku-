@@ -5,7 +5,7 @@
 
 ### \this is a simple Streamlit frontend for face mask detection in images using a pre-trained Keras CNN model (MobileNetV2) + OpenCV then deploy on heroku.
 
-### The `Web Application` I Created in <a href="https://face-mask-detector-app-cv.herokuapp.com/" target="_blank">`This Link`</a>.
+### The `Web Application` I Created, is in <a href="https://face-mask-detector-app-cv.herokuapp.com/" target="_blank">`This Link`</a>.
 #### The Data used for training can be found through  <a href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset" target="_blank">`This Link`</a> on Kaggle Website. 
 
 #### All work here is done on `CoLab` 
@@ -23,6 +23,6 @@
 
 ## Finally, After creating the ` Model` and save as `h5` file, Deploy the model with `Streamlit` frontend and upload it to`Heroku Platform`..
 
-## The `Web Application` I Created in <a href="https://face-mask-detector-app-cv.herokuapp.com/" target="_blank">`This Link`</a>.
+## The `Web Application` I Created, is in <a href="https://face-mask-detector-app-cv.herokuapp.com/" target="_blank">`This Link`</a>.
 
-## Good Reference for Deployment a Streamlit Frontend to Heroku <a href="https://medium.com/analytics-vidhya/deploying-a-streamlit-and-opencv-based-web-application-to-heroku-456691d28c41" target="_blank">`here`</a>. 
+## Good Reference for Deployment a Streamlit Frontend to Heroku <a href="https://medium.com/analytics-vidhya/deploying-a-streamlit-and-opencv-based-web-application-to-heroku-456691d28c41" target="_blank">here</a>. 
