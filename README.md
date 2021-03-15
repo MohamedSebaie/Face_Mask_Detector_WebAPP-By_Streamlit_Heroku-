@@ -24,3 +24,5 @@
 ## Finally, After creating the ` Model` and save as `h5` file, Deploy the model with `Streamlit` frontend and upload it to`Heroku Platform`..
 
 ## The `Web Application` I Created find in  <a href="https://face-mask-detector-app-cv.herokuapp.com/" target="_blank">`This Link`</a>.
+
+## Good Reference for Deployment a Streamlit Frontend to Heroku <a href="https://medium.com/analytics-vidhya/deploying-a-streamlit-and-opencv-based-web-application-to-heroku-456691d28c41" target="_blank">`here`</a>. 
