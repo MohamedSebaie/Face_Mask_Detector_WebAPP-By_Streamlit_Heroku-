@@ -27,14 +27,14 @@ st.image(image,use_column_width=True)
 
 st.write("""
     # Face Mask Detector By **Mohamed Sebaie** 
-    By Upload JPG Images and it will detect Mask or No Mask.
+    By Upload Images and it will detect **Mask** or **No Mask**.
     ***
     """)
 
 net = load_face_detector()
 model = load_our_model()
 
-uploaded_image = st.sidebar.file_uploader("Choose a JPG file", type="jpg")
+uploaded_image = st.sidebar.file_uploader("Choose a JPG, JPEG or PNG file", type=["jpg","jpeg","png"])
 confidence_value = st.sidebar.slider('Confidence:', 0.0, 1.0, 0.5, 0.1)
 if uploaded_image:
     st.sidebar.info('Uploaded image:')
