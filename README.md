@@ -1,9 +1,9 @@
-# Deployment_PROJECT (Face Mask Detector) Using Streamlit and Heroku by Applying CNN Model `(MobileNetV2)` + OpenCV
-## by (Mohamed Sebaie Sebaie)
+# Deployment_PROJECT (Face Mask Detector) Using Streamlit and Heroku by Applying Pre- Trained CNN Model `(MobileNetV2)`
+## by `Mohamed Sebaie Sebaie`
 
 <img src="imageB.jpg">
 
-### \this is a simple Streamlit frontend for face mask detection in images using a pre-trained Keras CNN model (MobileNetV2) + OpenCV then deploy on heroku.
+### This is a simple `Streamlit` frontend for face mask detection in images using a pre-trained Keras CNN model `MobileNetV2` and OpenCV then deploy on `heroku`.
 
 ### The `Web Application` I Created, is in <a href="https://face-mask-detector-app-cv.herokuapp.com/" target="_blank">`This Link`</a>.
 #### The Data used for training can be found through  <a href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset" target="_blank">`This Link`</a> on Kaggle Website. 
