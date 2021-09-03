@@ -1,4 +1,4 @@
-# Deployment_PROJECT (Face Mask Detector) Using Streamlit and Heroku
+# Deployment_PROJECT (Face Mask Detector) Using Streamlit and Heroku by Applying CNN Model `(MobileNetV2)` + OpenCV
 ## by (Mohamed Sebaie Sebaie)
 
 <img src="imageB.jpg">
