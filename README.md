@@ -1,9 +1,9 @@
-# Deployment_PROJECT (Face Mask Detector) Using Streamlit and Heroku by Applying CNN Model `(MobileNetV2)` + OpenCV
-## by (Mohamed Sebaie Sebaie)
+# Deployment_PROJECT (Face Mask Detector) Using Streamlit and Heroku by Applying Pre- Trained CNN Model `(MobileNetV2)`
+## by `Mohamed Sebaie Sebaie`
 
 <img src="imageB.jpg">
 
-### \this is a simple Streamlit frontend for face mask detection in images using a pre-trained Keras CNN model (MobileNetV2) + OpenCV then deploy on heroku.
+### This is a simple `Streamlit` frontend for face mask detection in images using a pre-trained Keras CNN model `MobileNetV2` and OpenCV then deploy on `heroku`.
 
 ### The `Web Application` I Created, is in <a href="https://face-mask-detector-app-cv.herokuapp.com/" target="_blank">`This Link`</a>.
 #### The Data used for training can be found through  <a href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset" target="_blank">`This Link`</a> on Kaggle Website. 
@@ -11,7 +11,7 @@
 #### All work here is done on `CoLab` 
 
 ## General Info
->- This example has been implemented by using OpenCV to detect faces in the input images and a a pre-trained Keras CNN model (MobileNetV2)   as mask/no-mask binary classifier applied to the faces Images. The Deep Learning model currently used has been trained using this image data set from kaggle <a href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset" target="_blank">`here`</a> . The trained model has been shared in this repo. The face detector algorithm comes from <a href="https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/how_to_train_face_detector.txt" target="_blank">`here`</a>: the Caffee model files are in CAFFEE folder directory.
+>- This Project has been implemented by using OpenCV to detect faces in the input images and a a pre-trained Keras CNN model (MobileNetV2)   as mask/no-mask binary classifier applied to the faces Images. The Deep Learning model currently used has been trained using this image data set from kaggle <a href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset" target="_blank">`here`</a> . The trained model has been shared in this repo. The face detector algorithm comes from <a href="https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/how_to_train_face_detector.txt" target="_blank">`here`</a>: the Caffee model files are in CAFFEE folder directory.
 
 ## Web APP Explanation
 ### Once an image has been uploaded, the classification happens automatically. 
